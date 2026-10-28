@@ -1,6 +1,6 @@
 extends "res://tests/v033_campaign_runs.gd"
 ## Earned-gold automated policies, no extra resources and no player-save writes.
-const OUTPUT: String="res://outputs/v039/balance"
+const OUTPUT: String="res://outputs/v039/balance" # lint:ignore res_path
 var risk_route: bool=false
 var casts: int=0
 var meals: int=0
