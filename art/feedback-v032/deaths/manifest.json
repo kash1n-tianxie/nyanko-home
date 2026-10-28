@@ -1,0 +1,1575 @@
+{
+  "version": "v0.3.2",
+  "kind": "new illustrated frame-by-frame death animation",
+  "frame_count": 6,
+  "frame_size": [
+    256,
+    256
+  ],
+  "pivot": [
+    0.5,
+    0.875
+  ],
+  "animations": {
+    "E01": {
+      "source_row": 0,
+      "source_row_bounds": [
+        0,
+        315
+      ],
+      "source_column_bounds": [
+        0,
+        272,
+        537,
+        768,
+        1024,
+        1276,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.66015625,
+      "first_height_ratio": 0.55859375,
+      "alpha_bounds": [
+        [
+          17,
+          56,
+          241,
+          222
+        ],
+        [
+          23,
+          31,
+          234,
+          222
+        ],
+        [
+          26,
+          30,
+          229,
+          224
+        ],
+        [
+          23,
+          41,
+          234,
+          224
+        ],
+        [
+          29,
+          16,
+          228,
+          222
+        ],
+        [
+          53,
+          90,
+          202,
+          222
+        ]
+      ],
+      "sha256": [
+        "dc758984a2043d22467ff89814936cb5fdbcd2bf621f75e12ac42168182eebed",
+        "47e30c4bcf410956db63a8c86e46b1aabe49db7f085e6caae3f23656d0419d03",
+        "25533ef5e8b04b384c2c52ae31911b86107b6e1f9db515e11c9bd7f478cd3d03",
+        "b7f2f9793255b7b32aff6b5723d079435efd4d667fa500197b47e1b20f5172d0",
+        "c6abc9fb07f5ecd2d88d10fb8a737d2628d9328d8366a1a63241393abdf48c8c",
+        "7eef343842a29f4520bf0cbde6227c363a6bf7bacf55feb70b77846a9b795eed"
+      ]
+    },
+    "E02": {
+      "source_row": 1,
+      "source_row_bounds": [
+        315,
+        546
+      ],
+      "source_column_bounds": [
+        0,
+        243,
+        505,
+        759,
+        1025,
+        1273,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.7265625,
+      "first_height_ratio": 0.53515625,
+      "alpha_bounds": [
+        [
+          29,
+          71,
+          227,
+          222
+        ],
+        [
+          30,
+          35,
+          228,
+          223
+        ],
+        [
+          28,
+          37,
+          228,
+          223
+        ],
+        [
+          16,
+          41,
+          241,
+          224
+        ],
+        [
+          31,
+          34,
+          226,
+          224
+        ],
+        [
+          57,
+          89,
+          197,
+          224
+        ]
+      ],
+      "sha256": [
+        "71971e1f6727ddc9c0ddf9f0c6d0d6230211e0d52f0259781841d4bc1fa9930f",
+        "c9a956579ac38deda823425dd473c73e21b8ece3cbd3de0aa77992159eb1dc35",
+        "a83083806360b5d7bd090571daf966c1c4d368436e8478c3077afd0e77d20545",
+        "836445b7a52082e3b17f301439d4d57ec1cfe78bee9cfd308f202c89c92a32d1",
+        "fcbd7e8b2a4fbd2594f178de4a5f26065cc5087ee381480f2e0ae3e80973b065",
+        "0e9758bd48cbde4865b2cc814c6296954bd8d264e6f9d3766ab64780aad6fc89"
+      ]
+    },
+    "E03": {
+      "source_row": 2,
+      "source_row_bounds": [
+        546,
+        765
+      ],
+      "source_column_bounds": [
+        0,
+        252,
+        491,
+        761,
+        1018,
+        1277,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.76953125,
+      "first_height_ratio": 0.53125,
+      "alpha_bounds": [
+        [
+          24,
+          75,
+          234,
+          223
+        ],
+        [
+          36,
+          43,
+          220,
+          223
+        ],
+        [
+          17,
+          33,
+          241,
+          224
+        ],
+        [
+          16,
+          41,
+          241,
+          224
+        ],
+        [
+          27,
+          42,
+          230,
+          224
+        ],
+        [
+          53,
+          103,
+          203,
+          222
+        ]
+      ],
+      "sha256": [
+        "ab500badc608befb56cd8f14dae441f213b828f22235d2a5e7b0179a4538f773",
+        "450c13bfb70eed8bd5cd5d7fb0ced2f6365f1a1c4067bf7cab69082636e88c22",
+        "ed99c8e8624737011877493794ecba055d5073ae7a1256cb79bbe76b73f6a569",
+        "b5d8a7504dd98a8cad7fafee31b94986dfc27ef478324bf58fee782401a090e1",
+        "2a1b3f2c9dee503aa91785c3637c9bb862abbcb65639a12bab7f0bbc8894b6a3",
+        "85ecf0a00f178ef9a87a3a8c2acb25c4b6d591195d07c39d943fb4e968b4d04d"
+      ]
+    },
+    "E04": {
+      "source_row": 3,
+      "source_row_bounds": [
+        765,
+        1024
+      ],
+      "source_column_bounds": [
+        0,
+        262,
+        515,
+        771,
+        1018,
+        1275,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.69140625,
+      "first_height_ratio": 0.52734375,
+      "alpha_bounds": [
+        [
+          17,
+          64,
+          241,
+          222
+        ],
+        [
+          26,
+          19,
+          232,
+          222
+        ],
+        [
+          19,
+          28,
+          238,
+          222
+        ],
+        [
+          20,
+          35,
+          237,
+          223
+        ],
+        [
+          32,
+          45,
+          226,
+          222
+        ],
+        [
+          46,
+          97,
+          209,
+          223
+        ]
+      ],
+      "sha256": [
+        "f882e3f175eb9859be70d6eec229f51a7e0675139a37562324bc47277cf138c4",
+        "29b44521b57f176beb8da7e7b50c03dd88ab4f1cbfabb1ff032e8d87d4d5ae21",
+        "599af212b7ba85ed0720db8307e7dc28abca9c4a53c7cebb073e25c4a57606de",
+        "ab7575b74eb589fcfcd61f2d9f3826247b6fd529c2c84e0f2906db334cb16f51",
+        "d8b804acbead20d1391654ddd19c739b3540a62b3b8422cc7c685f21952dc022",
+        "ad441fa580ab9740e5688ea93c298af287b72c23d82691cf5d1245a84df171e0"
+      ]
+    },
+    "E05": {
+      "source_row": 0,
+      "source_row_bounds": [
+        0,
+        267
+      ],
+      "source_column_bounds": [
+        0,
+        244,
+        499,
+        755,
+        1011,
+        1266,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.74609375,
+      "first_height_ratio": 0.390625,
+      "alpha_bounds": [
+        [
+          29,
+          109,
+          228,
+          224
+        ],
+        [
+          34,
+          27,
+          223,
+          222
+        ],
+        [
+          16,
+          22,
+          241,
+          222
+        ],
+        [
+          22,
+          46,
+          235,
+          223
+        ],
+        [
+          20,
+          38,
+          237,
+          222
+        ],
+        [
+          71,
+          112,
+          184,
+          222
+        ]
+      ],
+      "sha256": [
+        "ad1c0e661d7f4fc65cf66b006b065b6be75f627fee5debc2609a0bb58fcf5031",
+        "189f718db9fbf77ff97de305b9fad8a4087b7d47be5263aeb99714e1b574f6b8",
+        "b5fa375a2a93d48ce552abf9c9e0f630fe1b55d02af011dba5bd3be2c80aa8fe",
+        "d6354979990019fac2de34e00165cc30646a99cf0d2097ab31ef860ffb50175b",
+        "12953480d5f99ae2af7201fd8ecd3a93d7801f479f69ca48b76ce70ee7aebb5c",
+        "12a31cd04b9053c91feef98bd155ed88cd60f595a75780a25a50656e263e7135"
+      ]
+    },
+    "E06": {
+      "source_row": 1,
+      "source_row_bounds": [
+        267,
+        516
+      ],
+      "source_column_bounds": [
+        0,
+        247,
+        487,
+        746,
+        1009,
+        1287,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.69140625,
+      "first_height_ratio": 0.53515625,
+      "alpha_bounds": [
+        [
+          37,
+          84,
+          220,
+          223
+        ],
+        [
+          41,
+          21,
+          215,
+          223
+        ],
+        [
+          31,
+          10,
+          225,
+          223
+        ],
+        [
+          31,
+          15,
+          226,
+          224
+        ],
+        [
+          17,
+          59,
+          241,
+          223
+        ],
+        [
+          95,
+          95,
+          216,
+          224
+        ]
+      ],
+      "sha256": [
+        "c2eda4e4ceaa5d0141ae3fdbd1e549ce0c13037ad8d7e013249953df147db990",
+        "c64ae4ea167917725428bb9f36119ec384040c3ced4da9d3fdf55f949a260b03",
+        "1b29daa9be40217cd76b530662c269577eba95d75553f6891ad8e2f41a5eec50",
+        "26132f565b18a831b1120d31e9f74b6d2ed665cf5f19b43b72d13fe614c511e2",
+        "18734459f013787bbfe1d67c5135842cde862781091b0f79c2d9d063a344772f",
+        "8fbfabe43d5a56219c86ff9ca0ab64c6acb9104b333d1742ad2aae224a2fa077"
+      ]
+    },
+    "E07": {
+      "source_row": 2,
+      "source_row_bounds": [
+        516,
+        754
+      ],
+      "source_column_bounds": [
+        0,
+        231,
+        487,
+        758,
+        1038,
+        1261,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.5390625,
+      "first_height_ratio": 0.37890625,
+      "alpha_bounds": [
+        [
+          58,
+          121,
+          197,
+          223
+        ],
+        [
+          61,
+          48,
+          195,
+          222
+        ],
+        [
+          17,
+          37,
+          241,
+          222
+        ],
+        [
+          18,
+          39,
+          240,
+          223
+        ],
+        [
+          36,
+          46,
+          221,
+          224
+        ],
+        [
+          31,
+          117,
+          224,
+          224
+        ]
+      ],
+      "sha256": [
+        "9b838c23d4f366a0482d8188efb7f1d6389a6775a0eab80b1e2477726aa696ed",
+        "e7c21fdafafffd465cb7455ddd97e3f2e09b55fb70e5c14ffbe8a4e308f53ce3",
+        "0fbecc9a84a49e691fe04e1b1f26e3d46bad2c7f1b3c6f873379a04246b442e5",
+        "82ea9b3025ee6a91ac3f7807a7ae4ad310356c15e1d294c554a94de974f24591",
+        "ee6502179d1fe1f337a1b71a6ffebf16ebde99d0a7556378e2f92de140e32c3e",
+        "cd3e20054ea46c19b2342b43d4a39c3237b7e5bb19297d0b1eb8f3431d71b2cf"
+      ]
+    },
+    "E08": {
+      "source_row": 3,
+      "source_row_bounds": [
+        754,
+        1024
+      ],
+      "source_column_bounds": [
+        0,
+        248,
+        502,
+        756,
+        1023,
+        1288,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.64453125,
+      "first_height_ratio": 0.56640625,
+      "alpha_bounds": [
+        [
+          46,
+          77,
+          211,
+          222
+        ],
+        [
+          31,
+          41,
+          226,
+          222
+        ],
+        [
+          30,
+          43,
+          227,
+          222
+        ],
+        [
+          30,
+          66,
+          227,
+          222
+        ],
+        [
+          31,
+          54,
+          240,
+          222
+        ],
+        [
+          61,
+          91,
+          196,
+          222
+        ]
+      ],
+      "sha256": [
+        "2f5503a855ca63de86114b65cad3ac4d28c7682924f09e40307e45bd71a8dcce",
+        "61c13c08c841aaaed1ba4a5efde97700e7d2cea945c66ac5962d8ae6737d848b",
+        "9bddf6361068a6405318d3d8f0aa34522ca3d8778628172ed2a07dc60f19e0b9",
+        "3050018ace3155de47a0a6bce46992976738ebd463d2454238c6d62a774969c1",
+        "5012b6a3b770d1aa20d2ea96229374c7229705be18d0a5f8cf9e4b396e2b2a83",
+        "237cd97553ce1dd0b5436810c6617a83713e31c46c6ad3fc78c31bd48f0f2a1e"
+      ]
+    },
+    "E09": {
+      "source_row": 0,
+      "source_row_bounds": [
+        0,
+        270
+      ],
+      "source_column_bounds": [
+        0,
+        231,
+        492,
+        756,
+        1019,
+        1266,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.70703125,
+      "first_height_ratio": 0.609375,
+      "alpha_bounds": [
+        [
+          33,
+          66,
+          222,
+          222
+        ],
+        [
+          26,
+          5,
+          231,
+          222
+        ],
+        [
+          21,
+          7,
+          236,
+          222
+        ],
+        [
+          18,
+          51,
+          239,
+          222
+        ],
+        [
+          26,
+          49,
+          232,
+          224
+        ],
+        [
+          50,
+          62,
+          205,
+          224
+        ]
+      ],
+      "sha256": [
+        "2a62bc8042486e19da2322c4bfbf61552e3fc9f9ef0f3b38184d6cdee6de019b",
+        "2ca0ed4856c51ca3a9eb1f3e9771aab55f44a77ceda19594f254505963807253",
+        "c48a81a58674ae676b55bbcb1802dd8afb72713d92a5fabe244d9b6377a1224c",
+        "51952838c5272b9144eced23339a15c00c35816600d20a39c75bfff994113540",
+        "d272ff050a463840a410be37be477aa9aa01202e81b3eb3139ca968af8327b28",
+        "4a8e34ff55d704e5ece97843cb02e81c599b32495a5bea4350c952341a71fa96"
+      ]
+    },
+    "E10": {
+      "source_row": 1,
+      "source_row_bounds": [
+        270,
+        516
+      ],
+      "source_column_bounds": [
+        0,
+        242,
+        507,
+        769,
+        1025,
+        1291,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.7578125,
+      "first_height_ratio": 0.52734375,
+      "alpha_bounds": [
+        [
+          32,
+          85,
+          226,
+          222
+        ],
+        [
+          18,
+          35,
+          238,
+          222
+        ],
+        [
+          16,
+          25,
+          241,
+          222
+        ],
+        [
+          18,
+          59,
+          239,
+          224
+        ],
+        [
+          19,
+          34,
+          238,
+          222
+        ],
+        [
+          43,
+          62,
+          213,
+          222
+        ]
+      ],
+      "sha256": [
+        "f6a5816dadec87543028e9a9c5e1ae6dccca18aac0d00a0352b276101847735c",
+        "5552a05b82d49883f2624ff07677c4a11290f124c001a2e24cfa82d3b75044d5",
+        "e9c4e89c70b86444620156f41b477be043c8704f02323e32e7e8da425202ccc9",
+        "d48cd1961e6d1d04eca2bd7025c77709f1d1a0aa280483b49796a87c83f09648",
+        "55132ad0243c58e2311c2f8968ea4a5b42a1ffef744f01d5f8c66feed7d250de",
+        "08767c7007f6267331b88904bf219e1a2be9ef0659e25aa6724ba4c4931002e9"
+      ]
+    },
+    "X01": {
+      "source_row": 2,
+      "source_row_bounds": [
+        516,
+        751
+      ],
+      "source_column_bounds": [
+        0,
+        251,
+        507,
+        770,
+        1034,
+        1297,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.76171875,
+      "first_height_ratio": 0.4609375,
+      "alpha_bounds": [
+        [
+          31,
+          94,
+          226,
+          223
+        ],
+        [
+          33,
+          52,
+          224,
+          223
+        ],
+        [
+          16,
+          35,
+          240,
+          222
+        ],
+        [
+          22,
+          52,
+          235,
+          222
+        ],
+        [
+          26,
+          58,
+          232,
+          224
+        ],
+        [
+          52,
+          73,
+          203,
+          223
+        ]
+      ],
+      "sha256": [
+        "e35b1a30f10253370b626de5eb9507ad3f8d3875f946a4beeb4b487b05037155",
+        "531ec1c2092b3bae85213be9ebd1e4e21ac7051e9b177ce60e08a64cbbcd2f0c",
+        "55d2409c90887d62544565f1673948da9bbf93a07fc7f052394ee00694fb7404",
+        "bf8058b1693ff5308d00c12cb19a8ac4df9acbb669426d6bb811af4afad12293",
+        "c36b1821e683072194a7a226185a58aef074f137056103c20a21b66e8993803a",
+        "df28db82045cdb8ffdd1d20820cedc8386331626092e9620b5d74011bc54f277"
+      ]
+    },
+    "X02": {
+      "source_row": 3,
+      "source_row_bounds": [
+        751,
+        1024
+      ],
+      "source_column_bounds": [
+        0,
+        247,
+        512,
+        770,
+        1021,
+        1289,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.734375,
+      "first_height_ratio": 0.69140625,
+      "alpha_bounds": [
+        [
+          34,
+          44,
+          223,
+          223
+        ],
+        [
+          27,
+          19,
+          231,
+          222
+        ],
+        [
+          16,
+          38,
+          240,
+          222
+        ],
+        [
+          29,
+          38,
+          229,
+          222
+        ],
+        [
+          25,
+          34,
+          232,
+          222
+        ],
+        [
+          52,
+          71,
+          204,
+          222
+        ]
+      ],
+      "sha256": [
+        "1876d5134762eae0229d19243fb1af08915dfb1a8f7b91319ae96b7445638952",
+        "1f582d9712062a1a7a0b8b048dbc2fe0dfdb226e9c8beb43f5ab9a93396e7310",
+        "68d2294929c41cb1b063173fbfc1d8fe9abace859d0bb452be876c52d8e473d3",
+        "9158787389680d68e6d9c997d0ce36e574d55e93944fd6ed46f86344e9f527ce",
+        "17f3a4de9c01ce390bb663089ff79b746a53903b2dbe103314b7db7d1811bc31",
+        "6692fb230c3a972b023227a4353c541bd83541bb31682705e6e7e26bb37525f1"
+      ]
+    },
+    "X03": {
+      "source_row": 0,
+      "source_row_bounds": [
+        0,
+        250
+      ],
+      "source_column_bounds": [
+        0,
+        245,
+        502,
+        758,
+        1020,
+        1282,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.734375,
+      "first_height_ratio": 0.71484375,
+      "alpha_bounds": [
+        [
+          34,
+          39,
+          224,
+          222
+        ],
+        [
+          27,
+          35,
+          230,
+          223
+        ],
+        [
+          18,
+          28,
+          237,
+          222
+        ],
+        [
+          16,
+          106,
+          240,
+          223
+        ],
+        [
+          25,
+          62,
+          231,
+          224
+        ],
+        [
+          42,
+          71,
+          213,
+          223
+        ]
+      ],
+      "sha256": [
+        "bf7895df08122ace18ae3c49321b30627c5c1aeacefa4139ba6ef6cce17c9072",
+        "943d8740e5843c3530a4063e8ecc320599ebcc09948ba602aa6ae505d52d1731",
+        "fdc8d2b92f45f15a6c9f345288b3aeab7585a1d10bd5b411184e527dbae3f716",
+        "6e166b853c3cce47ed4c3d2f088ae6a60ec12f95e32ddd114839a266cb68f45a",
+        "96455ad049e999d2c38ad3d5170bcf67d51763a1cb8b49b65c3b7d052afab6af",
+        "faf68cc1a301298a84a38f4e97f951315e389eebb2f400248c90ec0a13dbdf96"
+      ]
+    },
+    "X04": {
+      "source_row": 1,
+      "source_row_bounds": [
+        250,
+        512
+      ],
+      "source_column_bounds": [
+        0,
+        239,
+        487,
+        754,
+        1019,
+        1274,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.69140625,
+      "first_height_ratio": 0.49609375,
+      "alpha_bounds": [
+        [
+          39,
+          94,
+          217,
+          222
+        ],
+        [
+          40,
+          7,
+          215,
+          223
+        ],
+        [
+          22,
+          18,
+          234,
+          224
+        ],
+        [
+          28,
+          22,
+          229,
+          224
+        ],
+        [
+          27,
+          44,
+          230,
+          223
+        ],
+        [
+          56,
+          93,
+          231,
+          222
+        ]
+      ],
+      "sha256": [
+        "89d05b38fcb342ea92187c2a262f79c44dca77bce936c4b0472199ad35a96a42",
+        "a71e61bc384c538d6f2b42cef87ae04cb4d467d01942378f34ee49f070056344",
+        "65154c456eeef4025cea5efb60ed3799bfcab80c46c6210cc60aea03b884b11a",
+        "c9ed794e4a1f1c2bc26bd30b4c73aa248f349781e5c8a51687700120e5085f9b",
+        "e13198b91673d32f5b7df1326650b0ef76369ebb06985cce3d6fb5d6a04816df",
+        "b0650b4df83f82adb90ddcccce2c3aaf7d1cc1f46243dc43d80460e5a08023d4"
+      ]
+    },
+    "X05": {
+      "source_row": 2,
+      "source_row_bounds": [
+        512,
+        764
+      ],
+      "source_column_bounds": [
+        0,
+        242,
+        501,
+        775,
+        1023,
+        1290,
+        1536
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        256,
+        256
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.74609375,
+      "first_height_ratio": 0.5234375,
+      "alpha_bounds": [
+        [
+          33,
+          87,
+          224,
+          222
+        ],
+        [
+          28,
+          29,
+          230,
+          222
+        ],
+        [
+          17,
+          36,
+          241,
+          223
+        ],
+        [
+          23,
+          59,
+          233,
+          222
+        ],
+        [
+          18,
+          71,
+          239,
+          224
+        ],
+        [
+          30,
+          94,
+          225,
+          222
+        ]
+      ],
+      "sha256": [
+        "0bbe44e3fd3db0ec4c562ff991aea9dd76f59a042bbc2c0257535fccf8d09e8a",
+        "1d7e55ef7778a0a7a745dc69611589b77b717fbd225904d060236d70625a1181",
+        "2f114960fdda9b298c02cee3e6fc24809239694fa3879c1166d6f1cd8a9ddbe7",
+        "3685edf67783d51b0b4376f23e11d3cbbf4b7fc00271ebd07aedb3f7766259a9",
+        "81450071e81f6c591f3abc0dcaff8dbbe58dbfa4c81b762143d068da9ded6bfb",
+        "4aedcf476b9e8b3e587bec2e12033b5f052e20024d828738987e14b28ec9dc55"
+      ]
+    },
+    "B01": {
+      "source_grid": [
+        3,
+        2
+      ],
+      "source_regions": [
+        [
+          0,
+          0,
+          509,
+          540
+        ],
+        [
+          509,
+          0,
+          1021,
+          540
+        ],
+        [
+          1021,
+          0,
+          1536,
+          540
+        ],
+        [
+          0,
+          540,
+          526,
+          1024
+        ],
+        [
+          526,
+          540,
+          1037,
+          1024
+        ],
+        [
+          1037,
+          540,
+          1536,
+          1024
+        ]
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        512,
+        512
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.703125,
+      "first_height_ratio": 0.771484375,
+      "alpha_bounds": [
+        [
+          75,
+          51,
+          437,
+          446
+        ],
+        [
+          69,
+          27,
+          443,
+          446
+        ],
+        [
+          57,
+          17,
+          456,
+          446
+        ],
+        [
+          55,
+          67,
+          458,
+          447
+        ],
+        [
+          60,
+          77,
+          452,
+          446
+        ],
+        [
+          78,
+          94,
+          434,
+          446
+        ]
+      ],
+      "sha256": [
+        "1106977bd32cb0f96756a5a5ee48be36cf095b16eba21c6c26aff36f5bb5eec3",
+        "7136fd5aa979ef671ef69dc2fb4606ca39000617d630abb7dcc1f160b8352d48",
+        "3ad6af839874b3dda1980fa0427093dbc47a6661cb3eb71dfaa6a51a84ca8f4d",
+        "ad14b0bf52037500079241b2610a5a7a6acb280f99c16a4db0ca1a41c2eec814",
+        "1b0c1e06cc3b60ebe13e26a0286cd4441145417ab8aeea6ea0d732f048732b2c",
+        "8c2939f83b980f760e984587dad9cf78ba27e5888ae3aea8a8dc8852172b8dba"
+      ],
+      "native_resolution": true,
+      "first_pose": "intact near-original silhouette, no deep pancake squash",
+      "normalization_scale": 0.8537549407114624
+    },
+    "B02": {
+      "source_grid": [
+        3,
+        2
+      ],
+      "source_regions": [
+        [
+          0,
+          0,
+          504,
+          539
+        ],
+        [
+          504,
+          0,
+          1028,
+          539
+        ],
+        [
+          1028,
+          0,
+          1536,
+          539
+        ],
+        [
+          0,
+          539,
+          519,
+          1024
+        ],
+        [
+          519,
+          539,
+          1027,
+          1024
+        ],
+        [
+          1027,
+          539,
+          1536,
+          1024
+        ]
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        512,
+        512
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.802734375,
+      "first_height_ratio": 0.666015625,
+      "alpha_bounds": [
+        [
+          50,
+          104,
+          462,
+          447
+        ],
+        [
+          33,
+          70,
+          479,
+          447
+        ],
+        [
+          44,
+          83,
+          466,
+          446
+        ],
+        [
+          44,
+          108,
+          467,
+          446
+        ],
+        [
+          49,
+          86,
+          462,
+          446
+        ],
+        [
+          59,
+          128,
+          454,
+          446
+        ]
+      ],
+      "sha256": [
+        "70e620d4d8686f53e92af2ebf25b685bcb95de98f733ce6b6a8ad6551d3daf5f",
+        "6481d14b4f8d04efee86ada5a94ea2ee3347c5e01982f5480227d4d129cebd4d",
+        "13406be8e0e85235ec2ad838ab4bbd1d5ccb2b211ced276a57f6895e1a048aa7",
+        "5053ef2c710f7a666aa3f598ddded473fa41507457ceb5d924e01b221bbd156b",
+        "fad3ce4c863f78891a37c41788be44171c5051a3140a218d7632020dfed1920e",
+        "808d4718f254026d5183cec383e81f173ebb8ca4c9e835857a888ca5420d9be8"
+      ],
+      "native_resolution": true,
+      "first_pose": "intact near-original silhouette, no deep pancake squash",
+      "normalization_scale": 0.8888888888888888
+    },
+    "B03": {
+      "source_grid": [
+        3,
+        2
+      ],
+      "source_regions": [
+        [
+          0,
+          0,
+          525,
+          538
+        ],
+        [
+          525,
+          0,
+          1012,
+          538
+        ],
+        [
+          1012,
+          0,
+          1536,
+          538
+        ],
+        [
+          0,
+          538,
+          528,
+          1024
+        ],
+        [
+          528,
+          538,
+          1024,
+          1024
+        ],
+        [
+          1024,
+          538,
+          1536,
+          1024
+        ]
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        512,
+        512
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.732421875,
+      "first_height_ratio": 0.767578125,
+      "alpha_bounds": [
+        [
+          65,
+          37,
+          445,
+          446
+        ],
+        [
+          99,
+          17,
+          413,
+          447
+        ],
+        [
+          66,
+          26,
+          446,
+          446
+        ],
+        [
+          69,
+          64,
+          442,
+          446
+        ],
+        [
+          117,
+          139,
+          394,
+          446
+        ],
+        [
+          176,
+          177,
+          335,
+          447
+        ]
+      ],
+      "sha256": [
+        "be90e8ca4e01ac5937ee25fa9d9f4b49b953aba91e28d4eca551471eb2a4f62d",
+        "f3ce2be70853fa59b48ca7a6cb749347fdba65615445a19ed988745c1170c754",
+        "f5389b6a9b757fb6509e8a605633f4a98f1e27f2a3112ab38378b52699077b79",
+        "695cbd5fbc920cd5d07668fdfeb1015fc3a02d5d7872ecaa04f98656ddfd32bd",
+        "6aff49afa1a0e58aae486ec6daecdc78ac786a00f44a4acee71fe1eb2b3bee40",
+        "2af18e8eb32b188d65d4a26489afc1050960b5dbfedab155dde077a8020e7985"
+      ],
+      "native_resolution": true,
+      "first_pose": "intact near-original silhouette, no deep pancake squash",
+      "normalization_scale": 0.8181818181818182
+    },
+    "B04": {
+      "source_grid": [
+        3,
+        2
+      ],
+      "source_regions": [
+        [
+          4,
+          4,
+          508,
+          508
+        ],
+        [
+          516,
+          4,
+          1020,
+          508
+        ],
+        [
+          1028,
+          4,
+          1532,
+          508
+        ],
+        [
+          4,
+          516,
+          508,
+          1020
+        ],
+        [
+          516,
+          516,
+          1020,
+          1020
+        ],
+        [
+          1028,
+          516,
+          1532,
+          1020
+        ]
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        512,
+        512
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.625,
+      "first_height_ratio": 0.8203125,
+      "alpha_bounds": [
+        [
+          94,
+          26,
+          416,
+          446
+        ],
+        [
+          89,
+          19,
+          422,
+          448
+        ],
+        [
+          88,
+          20,
+          424,
+          446
+        ],
+        [
+          77,
+          33,
+          434,
+          447
+        ],
+        [
+          51,
+          70,
+          461,
+          446
+        ],
+        [
+          65,
+          93,
+          447,
+          447
+        ]
+      ],
+      "sha256": [
+        "178496c83050cc0d0ce22baf05bb34a4807599f234991c3853f483c7549e885a",
+        "90b5aa205cb73b1bb60c60986c6d976ca18da2d1b3f44f2827f56e14fa151763",
+        "11f51b5cdb143a1e3036eea4be68cf5c2b4c11ed5bb9dde49f81f5732a22c922",
+        "13bd246323e1df1a68680e513ed8b9c397e8d1ed146dcfb85748ed9e0f59eea0",
+        "e4cb0498116bc1fe1c8580f1b01cbf6fd2304929e59eb1d679f33bea1c416f44",
+        "3f2f2469222a799ea23d993010b83a41b0a836ca02cf35362c8103789d10801e"
+      ],
+      "native_resolution": true,
+      "first_pose": "intact near-original silhouette, no deep pancake squash",
+      "normalization_scale": 0.8503937007874016
+    },
+    "B05": {
+      "source_grid": [
+        3,
+        2
+      ],
+      "source_regions": [
+        [
+          0,
+          0,
+          513,
+          520
+        ],
+        [
+          513,
+          0,
+          1023,
+          520
+        ],
+        [
+          1023,
+          0,
+          1536,
+          520
+        ],
+        [
+          0,
+          520,
+          511,
+          1024
+        ],
+        [
+          511,
+          520,
+          1040,
+          1024
+        ],
+        [
+          1040,
+          520,
+          1536,
+          1024
+        ]
+      ],
+      "frame_count": 6,
+      "frame_size": [
+        512,
+        512
+      ],
+      "pivot_y": 0.875,
+      "first_width_ratio": 0.802734375,
+      "first_height_ratio": 0.83203125,
+      "alpha_bounds": [
+        [
+          49,
+          20,
+          461,
+          447
+        ],
+        [
+          44,
+          18,
+          467,
+          447
+        ],
+        [
+          48,
+          23,
+          465,
+          447
+        ],
+        [
+          51,
+          40,
+          461,
+          446
+        ],
+        [
+          48,
+          38,
+          465,
+          447
+        ],
+        [
+          69,
+          85,
+          442,
+          446
+        ]
+      ],
+      "sha256": [
+        "3c067c28a102257c2cda5804b26f065d207b977fcc6c8ed19296e483553d24d2",
+        "ee18703fde062d20ba86154268a0c0765691097f032613826b6bf63306984fe7",
+        "c4761d0e2e752bd3dc04b1e0037c3c9217ff6b5174b6b5ff42a64813833e7b3a",
+        "7d08c8dd67712f05f0eddb53dd8ac5cec6d6565e93f1666e5498e38a8d593db3",
+        "e39482d4f7ee025491de48a9d490a1e3dee22f0c2a48b41ccdb0ac8061f05486",
+        "7e9d8c6d3e845ac77fd69d87e5a0e127d89c39873741a1a4fd1867383a5a490c"
+      ],
+      "native_resolution": true,
+      "first_pose": "intact near-original silhouette, no deep pancake squash",
+      "normalization_scale": 0.8388349514563107
+    }
+  },
+  "boss_frame_size": [
+    512,
+    512
+  ],
+  "frame_size_note": "E/X 256px; B01-B05 generated independently at 512px; not upscaled legacy frames"
+}

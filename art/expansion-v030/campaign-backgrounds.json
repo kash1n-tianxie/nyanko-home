@@ -1,0 +1,146 @@
+{
+  "version": 38,
+  "index_base": 0,
+  "mapping": [
+    {
+      "index": 0,
+      "chapter": 1,
+      "encounter": 1,
+      "type": "normal",
+      "path": "res://art/clean-v038/chapter1-day.png"
+    },
+    {
+      "index": 1,
+      "chapter": 1,
+      "encounter": 2,
+      "type": "elite",
+      "path": "res://art/clean-v038/chapter1-noon.png"
+    },
+    {
+      "index": 2,
+      "chapter": 1,
+      "encounter": 3,
+      "type": "normal",
+      "path": "res://art/clean-v038/chapter1-noon.png"
+    },
+    {
+      "index": 3,
+      "chapter": 1,
+      "encounter": 4,
+      "type": "boss",
+      "path": "res://art/clean-v038/chapter1-night.png"
+    },
+    {
+      "index": 4,
+      "chapter": 2,
+      "encounter": 1,
+      "type": "normal",
+      "path": "res://art/clean-v038/chapter2-day.png"
+    },
+    {
+      "index": 5,
+      "chapter": 2,
+      "encounter": 2,
+      "type": "elite",
+      "path": "res://art/clean-v038/chapter2-noon.png"
+    },
+    {
+      "index": 6,
+      "chapter": 2,
+      "encounter": 3,
+      "type": "normal",
+      "path": "res://art/clean-v038/chapter2-noon.png"
+    },
+    {
+      "index": 7,
+      "chapter": 2,
+      "encounter": 4,
+      "type": "boss",
+      "path": "res://art/clean-v038/chapter2-night.png"
+    },
+    {
+      "index": 8,
+      "chapter": 3,
+      "encounter": 1,
+      "type": "normal",
+      "path": "res://art/clean-v038/chapter3-day.png"
+    },
+    {
+      "index": 9,
+      "chapter": 3,
+      "encounter": 2,
+      "type": "elite",
+      "path": "res://art/clean-v038/chapter3-noon.png"
+    },
+    {
+      "index": 10,
+      "chapter": 3,
+      "encounter": 3,
+      "type": "normal",
+      "path": "res://art/clean-v038/chapter3-noon.png"
+    },
+    {
+      "index": 11,
+      "chapter": 3,
+      "encounter": 4,
+      "type": "boss",
+      "path": "res://art/clean-v038/chapter3-night.png"
+    },
+    {
+      "index": 12,
+      "chapter": 4,
+      "encounter": 1,
+      "type": "normal",
+      "path": "res://art/clean-v038/chapter4-day.png"
+    },
+    {
+      "index": 13,
+      "chapter": 4,
+      "encounter": 2,
+      "type": "elite",
+      "path": "res://art/clean-v038/chapter4-noon.png"
+    },
+    {
+      "index": 14,
+      "chapter": 4,
+      "encounter": 3,
+      "type": "normal",
+      "path": "res://art/clean-v038/chapter4-noon.png"
+    },
+    {
+      "index": 15,
+      "chapter": 4,
+      "encounter": 4,
+      "type": "boss",
+      "path": "res://art/clean-v038/chapter4-night.png"
+    },
+    {
+      "index": 16,
+      "chapter": 5,
+      "encounter": 1,
+      "type": "normal",
+      "path": "res://art/clean-v038/chapter5-day.png"
+    },
+    {
+      "index": 17,
+      "chapter": 5,
+      "encounter": 2,
+      "type": "elite",
+      "path": "res://art/clean-v038/chapter5-noon.png"
+    },
+    {
+      "index": 18,
+      "chapter": 5,
+      "encounter": 3,
+      "type": "normal",
+      "path": "res://art/clean-v038/chapter5-night.png"
+    },
+    {
+      "index": 19,
+      "chapter": 5,
+      "encounter": 4,
+      "type": "boss",
+      "path": "res://art/clean-v038/chapter5-boss.png"
+    }
+  ]
+}

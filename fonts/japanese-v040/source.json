@@ -1,0 +1,11 @@
+{
+  "asset": "Kiwi Maru Regular",
+  "authors": "The Kiwi Maru Project Authors",
+  "source": "https://github.com/google/fonts/tree/main/ofl/kiwimaru",
+  "font_download": "https://raw.githubusercontent.com/google/fonts/main/ofl/kiwimaru/KiwiMaru-Regular.ttf",
+  "license_download": "https://raw.githubusercontent.com/google/fonts/main/ofl/kiwimaru/OFL.txt",
+  "license": "SIL Open Font License 1.1",
+  "retrieved": "2026-10-27",
+  "sha256": "b0c3103b2639f690c1fcb44e060058383174bfd2eb72e6635bc9869b374dee87",
+  "usage": "Japanese UI; existing LXGW and ZCOOL remain Chinese faces. No glyph alteration. Font filename shortened locally to KiwiMaru.ttf."
+}

@@ -1,0 +1,412 @@
+{
+  "version": 35,
+  "renderer": "painted-alpha-modules",
+  "coordinate_space": [
+    1280,
+    720
+  ],
+  "playfield_bottom": 548,
+  "modules": {
+    "laundry_rope": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        29,
+        55,
+        354,
+        240
+      ],
+      "source_bounds": [
+        18,
+        55,
+        365,
+        240
+      ]
+    },
+    "paper_scrap": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        391,
+        60,
+        239,
+        250
+      ],
+      "source_bounds": [
+        391,
+        60,
+        239,
+        250
+      ]
+    },
+    "shop_sign": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        644,
+        31,
+        319,
+        279
+      ],
+      "source_bounds": [
+        643,
+        20,
+        320,
+        290
+      ]
+    },
+    "receipt": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        1005,
+        25,
+        228,
+        289
+      ],
+      "source_bounds": [
+        1005,
+        15,
+        228,
+        299
+      ]
+    },
+    "steam": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        0,
+        315,
+        338,
+        325
+      ],
+      "source_bounds": [
+        0,
+        315,
+        338,
+        325
+      ]
+    },
+    "industrial_lamp": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        343,
+        320,
+        295,
+        317
+      ],
+      "source_bounds": [
+        343,
+        320,
+        295,
+        317
+      ]
+    },
+    "antenna": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        644,
+        327,
+        313,
+        310
+      ],
+      "source_bounds": [
+        644,
+        327,
+        323,
+        311
+      ]
+    },
+    "monitor": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        988,
+        326,
+        248,
+        303
+      ],
+      "source_bounds": [
+        980,
+        326,
+        274,
+        310
+      ]
+    },
+    "sock": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        86,
+        646,
+        164,
+        299
+      ],
+      "source_bounds": [
+        86,
+        642,
+        164,
+        303
+      ]
+    },
+    "moon_fragments": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        363,
+        646,
+        246,
+        289
+      ],
+      "source_bounds": [
+        363,
+        646,
+        246,
+        289
+      ]
+    },
+    "pennant": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        640,
+        644,
+        331,
+        300
+      ],
+      "source_bounds": [
+        640,
+        644,
+        332,
+        300
+      ]
+    },
+    "wood_brace": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        974,
+        655,
+        252,
+        287
+      ],
+      "source_bounds": [
+        974,
+        655,
+        271,
+        287
+      ]
+    },
+    "cloth_scrap": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        23,
+        990,
+        345,
+        256
+      ],
+      "source_bounds": [
+        18,
+        990,
+        350,
+        257
+      ]
+    },
+    "wood_chips": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        383,
+        1000,
+        228,
+        204
+      ],
+      "source_bounds": [
+        383,
+        1000,
+        228,
+        205
+      ]
+    },
+    "wood_crack": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        642,
+        944,
+        310,
+        294
+      ],
+      "source_bounds": [
+        642,
+        944,
+        310,
+        302
+      ]
+    },
+    "glints": {
+      "atlas": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "region": [
+        963,
+        944,
+        285,
+        308
+      ],
+      "source_bounds": [
+        963,
+        944,
+        290,
+        308
+      ]
+    },
+    "tree_post": {
+      "atlas": "res://art/immersion-v035/scenery/tree-atlas.png",
+      "region": [
+        124,
+        5,
+        133,
+        479
+      ],
+      "source_bounds": [
+        117,
+        0,
+        151,
+        488
+      ]
+    },
+    "tree_base": {
+      "atlas": "res://art/immersion-v035/scenery/tree-atlas.png",
+      "region": [
+        337,
+        299,
+        502,
+        185
+      ],
+      "source_bounds": [
+        332,
+        291,
+        507,
+        193
+      ]
+    },
+    "tree_platform": {
+      "atlas": "res://art/immersion-v035/scenery/tree-atlas.png",
+      "region": [
+        841,
+        303,
+        412,
+        147
+      ],
+      "source_bounds": [
+        841,
+        290,
+        413,
+        170
+      ]
+    },
+    "tree_house": {
+      "atlas": "res://art/immersion-v035/scenery/tree-atlas.png",
+      "region": [
+        36,
+        520,
+        335,
+        286
+      ],
+      "source_bounds": [
+        32,
+        519,
+        340,
+        295
+      ]
+    },
+    "tree_beam": {
+      "atlas": "res://art/immersion-v035/scenery/tree-atlas.png",
+      "region": [
+        384,
+        610,
+        457,
+        130
+      ],
+      "source_bounds": [
+        374,
+        601,
+        468,
+        149
+      ]
+    },
+    "tree_crest": {
+      "atlas": "res://art/immersion-v035/scenery/tree-atlas.png",
+      "region": [
+        850,
+        570,
+        404,
+        224
+      ],
+      "source_bounds": [
+        843,
+        563,
+        411,
+        238
+      ]
+    },
+    "tree_ladder": {
+      "atlas": "res://art/immersion-v035/scenery/tree-atlas.png",
+      "region": [
+        72,
+        836,
+        258,
+        405
+      ],
+      "source_bounds": [
+        65,
+        828,
+        269,
+        425
+      ]
+    },
+    "repair_patch": {
+      "atlas": "res://art/immersion-v035/scenery/tree-atlas.png",
+      "region": [
+        515,
+        912,
+        224,
+        312
+      ],
+      "source_bounds": [
+        500,
+        904,
+        245,
+        341
+      ]
+    },
+    "tree_flag": {
+      "atlas": "res://art/immersion-v035/scenery/tree-atlas.png",
+      "region": [
+        917,
+        830,
+        317,
+        407
+      ],
+      "source_bounds": [
+        902,
+        820,
+        350,
+        433
+      ]
+    }
+  },
+  "atlases": [
+    {
+      "path": "res://art/immersion-v035/scenery/environment-atlas.png",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "sha256": "675d93678f34a564fae072c72c76d64c496adf3a006699ac8ca09a2926b96f0b",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "path": "res://art/immersion-v035/scenery/tree-atlas.png",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "sha256": "a25ba9f8156d14fd91d7f9e96ae7fe4738cc30afd023c4882910a7edcbf1a94e",
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "debuff": {
+    "flight_min": 0.38, "flight_max": 0.50, "flight_speed": 1900.0,
+    "arc_height": 46.0, "missile_size": 57.0, "trail_points": 9,
+    "web_width": 102.0, "web_height": 98.0, "status_icon": 31.0,
+    "impact_duration": 0.42, "impact_radius": 56.0,
+    "reduced_scale": 0.82, "body_alpha": 0.88
+  },
+  "toy": {
+    "source_icon": 46.0, "source_duration": 0.42,
+    "meteor_width": 111.0, "meteor_height": 160.0,
+    "meteor_impact_size": 157.0, "meteor_impact_duration": 0.48,
+    "laser_width": 46.0, "blackhole_size": 160.0,
+    "decoy_width": 106.0, "decoy_height": 84.0,
+    "shield_width": 322.0, "shield_height": 402.0,
+    "shield_alpha": 0.30, "revive_width": 182.0, "revive_height": 238.0,
+    "explosion_size": 76.0, "explosion_duration": 0.35,
+    "reduced_scale": 0.78
+  }
+}

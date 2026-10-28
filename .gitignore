@@ -1,0 +1,20 @@
+# Generated Godot cache and imports
+.godot/
+*.tmp
+.DS_Store
+# Local exports and verification outputs
+outputs/
+exports/
+build/
+*.pck
+*.zip
+*.wasm
+# Credentials, local preferences and player progress
+.godot/export_credentials.cfg
+.env
+.env.*
+*.save
+*.save.bak
+*.settings
+*.log
+__pycache__/

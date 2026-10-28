@@ -1,0 +1,1051 @@
+{
+  "version": 38,
+  "canvas": [
+    768,
+    768
+  ],
+  "pivot": [
+    0.5,
+    0.9375
+  ],
+  "anchor_px": [
+    384,
+    720
+  ],
+  "frames": {
+    "C01": [
+      {
+        "index": 0,
+        "state": "anticipation",
+        "path": "res://art/cinema-v038/cats/C01-00.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.7866666666666666,
+        "alpha_zero": 530803,
+        "sha256": "ea56e8173b87761b36ac744f87d90e918e25597d44b789a0452f8a05f67ac90e",
+        "occupied_bbox": [
+          234,
+          500,
+          658,
+          727
+        ],
+        "occupied_height": 227
+      },
+      {
+        "index": 1,
+        "state": "lift",
+        "path": "res://art/cinema-v038/cats/C01-01.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.7866666666666666,
+        "alpha_zero": 520010,
+        "sha256": "3c6436aa942ec34fa9f926c6668582221112ec920be56b3c74d3d50722053151",
+        "occupied_bbox": [
+          204,
+          371,
+          563,
+          727
+        ],
+        "occupied_height": 356
+      },
+      {
+        "index": 2,
+        "state": "apex",
+        "path": "res://art/cinema-v038/cats/C01-02.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.7866666666666666,
+        "alpha_zero": 507242,
+        "sha256": "4de479af395f6ed3b7b65fe3b6e59b8dfdce0d6a396ff7f73ad51b19533b7b59",
+        "occupied_bbox": [
+          195,
+          351,
+          594,
+          727
+        ],
+        "occupied_height": 376
+      },
+      {
+        "index": 3,
+        "state": "impact",
+        "path": "res://art/cinema-v038/cats/C01-03.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.7866666666666666,
+        "alpha_zero": 515240,
+        "sha256": "18b30d77269a534b37646c0903b2fc577f6b5490d4f6cd81542ecae4688e7f90",
+        "occupied_bbox": [
+          204,
+          461,
+          738,
+          729
+        ],
+        "occupied_height": 268
+      },
+      {
+        "index": 4,
+        "state": "recovery",
+        "path": "res://art/cinema-v038/cats/C01-04.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.7866666666666666,
+        "alpha_zero": 527218,
+        "sha256": "2f4b960aa8a4fa2d9d2a7247aeccd22704f3ede069798d598ae63067403d403a",
+        "occupied_bbox": [
+          233,
+          358,
+          522,
+          728
+        ],
+        "occupied_height": 370
+      },
+      {
+        "index": 5,
+        "state": "settle",
+        "path": "res://art/cinema-v038/cats/C01-05.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.7866666666666666,
+        "alpha_zero": 523029,
+        "sha256": "3297d0f9c1d009cff7e007afa44aff18a7262b5a44ad736c67a8d49b567d5930",
+        "occupied_bbox": [
+          207,
+          413,
+          582,
+          727
+        ],
+        "occupied_height": 314
+      }
+    ],
+    "C02": [
+      {
+        "index": 0,
+        "state": "anticipation",
+        "path": "res://art/cinema-v038/cats/C02-00.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.145631067961165,
+        "alpha_zero": 445703,
+        "sha256": "edd8e3c7a5d05126abe9ff1babd30b83713caa2aa231b0ebbdbab07a42133b9a",
+        "occupied_bbox": [
+          119,
+          314,
+          660,
+          730
+        ],
+        "occupied_height": 416
+      },
+      {
+        "index": 1,
+        "state": "lift",
+        "path": "res://art/cinema-v038/cats/C02-01.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.145631067961165,
+        "alpha_zero": 418545,
+        "sha256": "716f3549bd87b708deab864666123cb123150cfd4d6d7be363100fd9b4b8452e",
+        "occupied_bbox": [
+          78,
+          277,
+          666,
+          730
+        ],
+        "occupied_height": 453
+      },
+      {
+        "index": 2,
+        "state": "apex",
+        "path": "res://art/cinema-v038/cats/C02-02.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.145631067961165,
+        "alpha_zero": 416705,
+        "sha256": "523f8da341772c51fa4a69c66cd9d71f6a508de36cd8a9d845cb1766f5b93c9e",
+        "occupied_bbox": [
+          31,
+          209,
+          621,
+          729
+        ],
+        "occupied_height": 520
+      },
+      {
+        "index": 3,
+        "state": "impact",
+        "path": "res://art/cinema-v038/cats/C02-03.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.145631067961165,
+        "alpha_zero": 410510,
+        "sha256": "2d75ad93fea810f1317abe7bcc495366ba5934bbe823093fde58a43b990dc854",
+        "occupied_bbox": [
+          62,
+          305,
+          667,
+          745
+        ],
+        "occupied_height": 440
+      },
+      {
+        "index": 4,
+        "state": "recovery",
+        "path": "res://art/cinema-v038/cats/C02-04.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.145631067961165,
+        "alpha_zero": 433230,
+        "sha256": "021ff012c3afea98b678cfdacf27fd91a2e6d945416b395afb96cb30ce302331",
+        "occupied_bbox": [
+          88,
+          303,
+          657,
+          737
+        ],
+        "occupied_height": 434
+      },
+      {
+        "index": 5,
+        "state": "settle",
+        "path": "res://art/cinema-v038/cats/C02-05.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.145631067961165,
+        "alpha_zero": 429337,
+        "sha256": "c0e27a517dfffbfcebd48d39ac310920a6fa732b25107f90d95d7d5590ba7c59",
+        "occupied_bbox": [
+          157,
+          258,
+          663,
+          731
+        ],
+        "occupied_height": 473
+      }
+    ],
+    "C03": [
+      {
+        "index": 0,
+        "state": "anticipation",
+        "path": "res://art/cinema-v038/cats/C03-00.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.0350877192982457,
+        "alpha_zero": 507504,
+        "sha256": "4d09a7d331abc11e23ecf372a074c82d1af1ce667180278a4ffaaea8648cf5b2",
+        "occupied_bbox": [
+          195,
+          380,
+          603,
+          729
+        ],
+        "occupied_height": 349
+      },
+      {
+        "index": 1,
+        "state": "lift",
+        "path": "res://art/cinema-v038/cats/C03-01.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.0350877192982457,
+        "alpha_zero": 506105,
+        "sha256": "8c655977938ebf3379cd143e40999160ce0e1a1e25763046e31cd31876a69d9a",
+        "occupied_bbox": [
+          210,
+          207,
+          548,
+          731
+        ],
+        "occupied_height": 524
+      },
+      {
+        "index": 2,
+        "state": "apex",
+        "path": "res://art/cinema-v038/cats/C03-02.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.0350877192982457,
+        "alpha_zero": 511384,
+        "sha256": "d1d6b011040d0437a6274219fd0e723c33f7a5cd9944211f2a5908e145bc9359",
+        "occupied_bbox": [
+          225,
+          166,
+          540,
+          730
+        ],
+        "occupied_height": 564
+      },
+      {
+        "index": 3,
+        "state": "impact",
+        "path": "res://art/cinema-v038/cats/C03-03.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.0350877192982457,
+        "alpha_zero": 499926,
+        "sha256": "9f5f7a121a4944a509e0573068b62669b63546950315c15b209613dbbc76b3fe",
+        "occupied_bbox": [
+          183,
+          366,
+          738,
+          730
+        ],
+        "occupied_height": 364
+      },
+      {
+        "index": 4,
+        "state": "recovery",
+        "path": "res://art/cinema-v038/cats/C03-04.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.0350877192982457,
+        "alpha_zero": 500311,
+        "sha256": "3a09bb1a419288dc18902aaa0147360a98897ca27c43117c23793e6687eae7e0",
+        "occupied_bbox": [
+          159,
+          335,
+          649,
+          731
+        ],
+        "occupied_height": 396
+      },
+      {
+        "index": 5,
+        "state": "settle",
+        "path": "res://art/cinema-v038/cats/C03-05.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.0350877192982457,
+        "alpha_zero": 512354,
+        "sha256": "36e939f8fa15733454c7be6fa3cca7ca5dceaaebfe76d0224e940ba3b958c17b",
+        "occupied_bbox": [
+          206,
+          297,
+          618,
+          731
+        ],
+        "occupied_height": 434
+      }
+    ],
+    "C04": [
+      {
+        "index": 0,
+        "state": "anticipation",
+        "path": "res://art/cinema-v038/cats/C04-00.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.0260869565217392,
+        "alpha_zero": 468882,
+        "sha256": "70c1d56abdb7a12b49a80f616e0f15aa4cfe6a3d6e64bc659cd561d918dc1d9a",
+        "occupied_bbox": [
+          175,
+          336,
+          603,
+          729
+        ],
+        "occupied_height": 393
+      },
+      {
+        "index": 1,
+        "state": "lift",
+        "path": "res://art/cinema-v038/cats/C04-01.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.0260869565217392,
+        "alpha_zero": 475581,
+        "sha256": "edd76e48be7c06d355162529cf107a58fbcbcbd27a9ed75354c3a17a433025c2",
+        "occupied_bbox": [
+          167,
+          199,
+          544,
+          728
+        ],
+        "occupied_height": 529
+      },
+      {
+        "index": 2,
+        "state": "apex",
+        "path": "res://art/cinema-v038/cats/C04-02.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.0260869565217392,
+        "alpha_zero": 470318,
+        "sha256": "f266d0d571a5650a6c3a4406e1717479ec403efea886dc4538455c33b4eee6e5",
+        "occupied_bbox": [
+          190,
+          159,
+          561,
+          731
+        ],
+        "occupied_height": 572
+      },
+      {
+        "index": 3,
+        "state": "impact",
+        "path": "res://art/cinema-v038/cats/C04-03.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.0260869565217392,
+        "alpha_zero": 480663,
+        "sha256": "1f00a4117bca9e20c94ae269fdd043cd98817ca9f9834cfaea8e213c9875c2df",
+        "occupied_bbox": [
+          182,
+          445,
+          738,
+          741
+        ],
+        "occupied_height": 296
+      },
+      {
+        "index": 4,
+        "state": "recovery",
+        "path": "res://art/cinema-v038/cats/C04-04.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.0260869565217392,
+        "alpha_zero": 468729,
+        "sha256": "5836daf001928ac6c6c76f85827f7e29a765d9e76bb158657f89f026d2f76039",
+        "occupied_bbox": [
+          186,
+          278,
+          682,
+          731
+        ],
+        "occupied_height": 453
+      },
+      {
+        "index": 5,
+        "state": "settle",
+        "path": "res://art/cinema-v038/cats/C04-05.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 1.0260869565217392,
+        "alpha_zero": 468959,
+        "sha256": "dc27f336a7c0f2db3d237b54b3906861b02fc915f338d9d27c1438bb693ead51",
+        "occupied_bbox": [
+          157,
+          314,
+          572,
+          729
+        ],
+        "occupied_height": 415
+      }
+    ],
+    "C05": [
+      {
+        "index": 0,
+        "state": "anticipation",
+        "path": "res://art/cinema-v038/cats/C05-00.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.9698630136986301,
+        "alpha_zero": 478344,
+        "sha256": "2b65ed7f69f249a69e5a84352e0866a33e6516851f75e29dc084231e26b0f6bb",
+        "occupied_bbox": [
+          164,
+          382,
+          657,
+          729
+        ],
+        "occupied_height": 347
+      },
+      {
+        "index": 1,
+        "state": "lift",
+        "path": "res://art/cinema-v038/cats/C05-01.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.9698630136986301,
+        "alpha_zero": 454868,
+        "sha256": "b856ff31ded3b5b00b548488fa9464d40b19b72d6ec76c7f5018277bd309d688",
+        "occupied_bbox": [
+          145,
+          300,
+          605,
+          730
+        ],
+        "occupied_height": 430
+      },
+      {
+        "index": 2,
+        "state": "apex",
+        "path": "res://art/cinema-v038/cats/C05-02.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.9698630136986301,
+        "alpha_zero": 481957,
+        "sha256": "1e32bd81f8abea9456c22804384803f8a2b2436606657fd99578bf4fb3671c01",
+        "occupied_bbox": [
+          110,
+          355,
+          618,
+          729
+        ],
+        "occupied_height": 374
+      },
+      {
+        "index": 3,
+        "state": "impact",
+        "path": "res://art/cinema-v038/cats/C05-03.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.9698630136986301,
+        "alpha_zero": 445566,
+        "sha256": "9af83420874ba110bd180fe0c5ae9789e3dcfafd1470939858740021d238a643",
+        "occupied_bbox": [
+          145,
+          337,
+          738,
+          732
+        ],
+        "occupied_height": 395
+      },
+      {
+        "index": 4,
+        "state": "recovery",
+        "path": "res://art/cinema-v038/cats/C05-04.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.9698630136986301,
+        "alpha_zero": 478726,
+        "sha256": "68d58dc9b9d5bb10d30065f5dc5edf1e3b86cbc7dbc876bad7dd643ec57d496b",
+        "occupied_bbox": [
+          186,
+          364,
+          662,
+          732
+        ],
+        "occupied_height": 368
+      },
+      {
+        "index": 5,
+        "state": "settle",
+        "path": "res://art/cinema-v038/cats/C05-05.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.9698630136986301,
+        "alpha_zero": 474303,
+        "sha256": "bc743d3c201328b27be95ea592a288ece7dc111846e87982016e440cc8229404",
+        "occupied_bbox": [
+          194,
+          277,
+          604,
+          731
+        ],
+        "occupied_height": 454
+      }
+    ],
+    "C06": [
+      {
+        "index": 0,
+        "state": "anticipation",
+        "path": "res://art/cinema-v038/cats/C06-00.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.9971830985915493,
+        "alpha_zero": 486909,
+        "sha256": "9736f71a761c2d503afb365f189726018b7618cfa24a5bfaa9865d64c31d4fdd",
+        "occupied_bbox": [
+          144,
+          377,
+          645,
+          737
+        ],
+        "occupied_height": 360
+      },
+      {
+        "index": 1,
+        "state": "lift",
+        "path": "res://art/cinema-v038/cats/C06-01.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.9971830985915493,
+        "alpha_zero": 482751,
+        "sha256": "41e31198bc81088de21cf49cb284ccda0e2ccb8dd3948cd0ea3e459e8c2b8e4c",
+        "occupied_bbox": [
+          159,
+          250,
+          588,
+          733
+        ],
+        "occupied_height": 483
+      },
+      {
+        "index": 2,
+        "state": "apex",
+        "path": "res://art/cinema-v038/cats/C06-02.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.9971830985915493,
+        "alpha_zero": 492657,
+        "sha256": "d37d3bab3b55a91ad1ca3e251456c3125266e4f7438161f2ec027183445c4514",
+        "occupied_bbox": [
+          193,
+          213,
+          570,
+          734
+        ],
+        "occupied_height": 521
+      },
+      {
+        "index": 3,
+        "state": "impact",
+        "path": "res://art/cinema-v038/cats/C06-03.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.9971830985915493,
+        "alpha_zero": 463202,
+        "sha256": "b476370c2bf6f636dcc6585a6c040370fe045a6b6d01844cb58d4dd85c44d422",
+        "occupied_bbox": [
+          133,
+          310,
+          738,
+          739
+        ],
+        "occupied_height": 429
+      },
+      {
+        "index": 4,
+        "state": "recovery",
+        "path": "res://art/cinema-v038/cats/C06-04.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.9971830985915493,
+        "alpha_zero": 496741,
+        "sha256": "e7f66fef7713bdb3bfa16968c630d70a0199db26e4c39a008ced48f70272a665",
+        "occupied_bbox": [
+          143,
+          273,
+          615,
+          736
+        ],
+        "occupied_height": 463
+      },
+      {
+        "index": 5,
+        "state": "settle",
+        "path": "res://art/cinema-v038/cats/C06-05.png",
+        "size": [
+          768,
+          768
+        ],
+        "pivot": [
+          0.5,
+          0.9375
+        ],
+        "anchor_px": [
+          384,
+          720
+        ],
+        "uniform_scale": 0.9971830985915493,
+        "alpha_zero": 488209,
+        "sha256": "625aa8b392d918861809809f424b22bed07666528f6e2dca7ec0bf8859c777a5",
+        "occupied_bbox": [
+          182,
+          288,
+          629,
+          730
+        ],
+        "occupied_height": 442
+      }
+    ]
+  },
+  "cats": {
+    "C01": {
+      "common_occupied_height": 376,
+      "settle_occupied_height": 314,
+      "pivot": [
+        0.5,
+        0.9375
+      ]
+    },
+    "C02": {
+      "common_occupied_height": 520,
+      "settle_occupied_height": 473,
+      "pivot": [
+        0.5,
+        0.9375
+      ]
+    },
+    "C03": {
+      "common_occupied_height": 564,
+      "settle_occupied_height": 434,
+      "pivot": [
+        0.5,
+        0.9375
+      ]
+    },
+    "C04": {
+      "common_occupied_height": 572,
+      "settle_occupied_height": 415,
+      "pivot": [
+        0.5,
+        0.9375
+      ]
+    },
+    "C05": {
+      "common_occupied_height": 454,
+      "settle_occupied_height": 454,
+      "pivot": [
+        0.5,
+        0.9375
+      ]
+    },
+    "C06": {
+      "common_occupied_height": 521,
+      "settle_occupied_height": 442,
+      "pivot": [
+        0.5,
+        0.9375
+      ]
+    }
+  }
+}

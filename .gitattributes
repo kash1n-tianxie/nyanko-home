@@ -1,0 +1,14 @@
+* text=auto
+*.gd text eol=lf
+*.tscn text eol=lf
+*.tres text eol=lf
+*.json text eol=lf
+*.png binary
+*.ogg binary
+*.wav binary
+*.ttf binary
+
+# Preserve upstream license text verbatim, including original whitespace.
+audio/free-v040/KENNEY-LICENSE.txt -whitespace
+fonts/**/*-OFL.txt -whitespace
+fonts/**/OFL.txt -whitespace

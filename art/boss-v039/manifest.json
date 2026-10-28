@@ -1,0 +1,246 @@
+{
+  "version": 39,
+  "canvas": [
+    768,
+    768
+  ],
+  "pivot": [
+    0.5,
+    0.9375
+  ],
+  "anchor_px": [
+    384,
+    720
+  ],
+  "animation_scope": "Six newly painted key poses per Boss; runtime holds/interpolates these poses and moves existing attack anchors. Not a dense 24fps drawn animation.",
+  "bosses": {
+    "B01": {
+      "name": "纸箱队长",
+      "reference_height": 341,
+      "frames": {
+        "idle": {
+          "path": "res://art/boss-v039/B01/idle.png",
+          "scale": 0.87,
+          "occupied_bbox": [
+            117,
+            382,
+            524,
+            723
+          ],
+          "occupied_height": 341,
+          "painted_cast_px": [
+            283,
+            583
+          ],
+          "alpha_zero": 506991,
+          "alpha_nonzero": 82833,
+          "sha256": "b8f3336bbd96bc5e9784335f6d02b73fc68e8dc76ca7d5d0ae6d95133d079bc6"
+        },
+        "windup": {
+          "path": "res://art/boss-v039/B01/windup.png",
+          "scale": 0.87,
+          "occupied_bbox": [
+            211,
+            292,
+            540,
+            724
+          ],
+          "occupied_height": 432,
+          "painted_cast_px": [
+            290,
+            517
+          ],
+          "alpha_zero": 493805,
+          "alpha_nonzero": 96019,
+          "sha256": "252f4fbdcf154c091275c31535fe58793df20899387f27a6a6c47b6cccc0723e"
+        },
+        "release": {
+          "path": "res://art/boss-v039/B01/release.png",
+          "scale": 0.87,
+          "occupied_bbox": [
+            25,
+            404,
+            540,
+            725
+          ],
+          "occupied_height": 321,
+          "painted_cast_px": [
+            195,
+            590
+          ],
+          "alpha_zero": 490340,
+          "alpha_nonzero": 99484,
+          "sha256": "7d4104dc7ce3e3ab2729e9319de6f8875f38dd34da1ae85071c236418f2bc4b0"
+        },
+        "exposed": {
+          "path": "res://art/boss-v039/B01/exposed.png",
+          "scale": 0.87,
+          "occupied_bbox": [
+            120,
+            321,
+            556,
+            727
+          ],
+          "occupied_height": 406,
+          "painted_cast_px": [
+            278,
+            504
+          ],
+          "alpha_zero": 482864,
+          "alpha_nonzero": 106960,
+          "sha256": "cdc825cdd732cf13983f58aae93d311532077fcde5de2d4529edfbb9fadde556"
+        },
+        "recover": {
+          "path": "res://art/boss-v039/B01/recover.png",
+          "scale": 0.87,
+          "occupied_bbox": [
+            151,
+            400,
+            559,
+            723
+          ],
+          "occupied_height": 323,
+          "painted_cast_px": [
+            294,
+            591
+          ],
+          "alpha_zero": 506304,
+          "alpha_nonzero": 83520,
+          "sha256": "ac18cfc3e2eb9ac258c57318f36168687d49119fa4dcb4212aaacca9d411fda9"
+        },
+        "defeat": {
+          "path": "res://art/boss-v039/B01/defeat.png",
+          "scale": 0.87,
+          "occupied_bbox": [
+            65,
+            413,
+            527,
+            722
+          ],
+          "occupied_height": 309,
+          "painted_cast_px": [
+            240,
+            631
+          ],
+          "alpha_zero": 505503,
+          "alpha_nonzero": 84321,
+          "sha256": "36d512363055e7e8de88cbc5392aa08eeb7af3572f96ed649e4eb5c6fd64d30f"
+        }
+      }
+    },
+    "B05": {
+      "name": "吞月洗衣机",
+      "reference_height": 554,
+      "frames": {
+        "idle": {
+          "path": "res://art/boss-v039/B05/idle.png",
+          "scale": 1.08,
+          "occupied_bbox": [
+            112,
+            171,
+            641,
+            725
+          ],
+          "occupied_height": 554,
+          "painted_cast_px": [
+            374,
+            436
+          ],
+          "alpha_zero": 394134,
+          "alpha_nonzero": 195690,
+          "sha256": "8dfd2b70d1230bc76d2c2dcb40d52638c033badd7be88ecab4ae6ae2d5077c23"
+        },
+        "windup": {
+          "path": "res://art/boss-v039/B05/windup.png",
+          "scale": 1.08,
+          "occupied_bbox": [
+            58,
+            183,
+            603,
+            721
+          ],
+          "occupied_height": 538,
+          "painted_cast_px": [
+            370,
+            466
+          ],
+          "alpha_zero": 411360,
+          "alpha_nonzero": 178464,
+          "sha256": "b8194e6e94e7d1c45504cc5f8d8b7b29aa317db42797b7a5f6d3903ddf0b5e0a"
+        },
+        "release": {
+          "path": "res://art/boss-v039/B05/release.png",
+          "scale": 1.08,
+          "occupied_bbox": [
+            45,
+            210,
+            590,
+            722
+          ],
+          "occupied_height": 512,
+          "painted_cast_px": [
+            351,
+            474
+          ],
+          "alpha_zero": 390962,
+          "alpha_nonzero": 198862,
+          "sha256": "9d56b6b460f198e2d37a1b3e46c78064db37a8d54fed1462d3e72a685de92d4c"
+        },
+        "exposed": {
+          "path": "res://art/boss-v039/B05/exposed.png",
+          "scale": 1.08,
+          "occupied_bbox": [
+            119,
+            191,
+            664,
+            725
+          ],
+          "occupied_height": 534,
+          "painted_cast_px": [
+            374,
+            459
+          ],
+          "alpha_zero": 371205,
+          "alpha_nonzero": 218619,
+          "sha256": "085bd62bd27d1ce696fd5a0b53610af49d6ad36408b27ce1a34ce66a855b79a4"
+        },
+        "recover": {
+          "path": "res://art/boss-v039/B05/recover.png",
+          "scale": 1.08,
+          "occupied_bbox": [
+            102,
+            214,
+            620,
+            723
+          ],
+          "occupied_height": 509,
+          "painted_cast_px": [
+            368,
+            509
+          ],
+          "alpha_zero": 387260,
+          "alpha_nonzero": 202564,
+          "sha256": "0df92a21cb9d0351eaa5ee6ab6ee6558ad668c7f281ca2b9c22efc535f7a16f1"
+        },
+        "defeat": {
+          "path": "res://art/boss-v039/B05/defeat.png",
+          "scale": 1.08,
+          "occupied_bbox": [
+            47,
+            287,
+            587,
+            725
+          ],
+          "occupied_height": 438,
+          "painted_cast_px": [
+            367,
+            519
+          ],
+          "alpha_zero": 434907,
+          "alpha_nonzero": 154917,
+          "sha256": "41e531e7ae464b1572b121c13a9126fb683998d797e9827b6c1b3d805185c96d"
+        }
+      }
+    }
+  }
+}

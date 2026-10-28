@@ -1,0 +1,398 @@
+{
+  "C01": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "frame_count": 4,
+    "pixels_per_200px_control": 800,
+    "frames": [
+      {
+        "region": [
+          15,
+          258,
+          563,
+          373
+        ],
+        "anchor": [
+          295,
+          366
+        ],
+        "label": "crouch"
+      },
+      {
+        "region": [
+          703,
+          14,
+          505,
+          654
+        ],
+        "anchor": [
+          200,
+          643
+        ],
+        "label": "launch"
+      },
+      {
+        "region": [
+          41,
+          673,
+          466,
+          500
+        ],
+        "anchor": [
+          289,
+          437
+        ],
+        "label": "backflip tuck"
+      },
+      {
+        "region": [
+          647,
+          856,
+          589,
+          353
+        ],
+        "anchor": [
+          283,
+          350
+        ],
+        "label": "landing"
+      }
+    ]
+  },
+  "C02": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "frame_count": 4,
+    "pixels_per_200px_control": 800,
+    "frames": [
+      {
+        "region": [
+          50,
+          38,
+          567,
+          563
+        ],
+        "anchor": [
+          250,
+          559
+        ],
+        "label": "belly rub"
+      },
+      {
+        "region": [
+          670,
+          52,
+          530,
+          542
+        ],
+        "anchor": [
+          255,
+          539
+        ],
+        "label": "knead"
+      },
+      {
+        "region": [
+          31,
+          651,
+          605,
+          558
+        ],
+        "anchor": [
+          289,
+          547
+        ],
+        "label": "hairball face"
+      },
+      {
+        "region": [
+          654,
+          665,
+          578,
+          541
+        ],
+        "anchor": [
+          271,
+          540
+        ],
+        "label": "peel away"
+      }
+    ]
+  },
+  "C03": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "frame_count": 4,
+    "pixels_per_200px_control": 800,
+    "frames": [
+      {
+        "region": [
+          35,
+          53,
+          596,
+          545
+        ],
+        "anchor": [
+          270,
+          541
+        ],
+        "label": "fiddle plug"
+      },
+      {
+        "region": [
+          693,
+          81,
+          543,
+          517
+        ],
+        "anchor": [
+          272,
+          511
+        ],
+        "label": "nose spark"
+      },
+      {
+        "region": [
+          59,
+          633,
+          583,
+          555
+        ],
+        "anchor": [
+          271,
+          547
+        ],
+        "label": "shocked star"
+      },
+      {
+        "region": [
+          710,
+          668,
+          489,
+          544
+        ],
+        "anchor": [
+          230,
+          540
+        ],
+        "label": "frazzled"
+      }
+    ]
+  },
+  "C04": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "frame_count": 4,
+    "pixels_per_200px_control": 800,
+    "frames": [
+      {
+        "region": [
+          78,
+          172,
+          536,
+          465
+        ],
+        "anchor": [
+          252,
+          462
+        ],
+        "label": "ready"
+      },
+      {
+        "region": [
+          638,
+          11,
+          567,
+          626
+        ],
+        "anchor": [
+          337,
+          623
+        ],
+        "label": "lift hammer"
+      },
+      {
+        "region": [
+          78,
+          695,
+          535,
+          525
+        ],
+        "anchor": [
+          232,
+          495
+        ],
+        "label": "toe hit"
+      },
+      {
+        "region": [
+          672,
+          658,
+          568,
+          542
+        ],
+        "anchor": [
+          266,
+          536
+        ],
+        "label": "hop on foot"
+      }
+    ]
+  },
+  "C05": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "frame_count": 4,
+    "pixels_per_200px_control": 800,
+    "frames": [
+      {
+        "region": [
+          37,
+          77,
+          584,
+          580
+        ],
+        "anchor": [
+          273,
+          566
+        ],
+        "label": "yawn"
+      },
+      {
+        "region": [
+          650,
+          132,
+          586,
+          514
+        ],
+        "anchor": [
+          295,
+          506
+        ],
+        "label": "inflate"
+      },
+      {
+        "region": [
+          35,
+          785,
+          688,
+          387
+        ],
+        "anchor": [
+          295,
+          383
+        ],
+        "label": "reverse suction"
+      },
+      {
+        "region": [
+          743,
+          689,
+          462,
+          495
+        ],
+        "anchor": [
+          232,
+          488
+        ],
+        "label": "horn cone"
+      }
+    ]
+  },
+  "C06": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "frame_count": 4,
+    "pixels_per_200px_control": 800,
+    "frames": [
+      {
+        "region": [
+          62,
+          32,
+          579,
+          628
+        ],
+        "anchor": [
+          258,
+          622
+        ],
+        "label": "startled"
+      },
+      {
+        "region": [
+          690,
+          211,
+          469,
+          439
+        ],
+        "anchor": [
+          250,
+          427
+        ],
+        "label": "hide"
+      },
+      {
+        "region": [
+          53,
+          814,
+          450,
+          362
+        ],
+        "anchor": [
+          272,
+          354
+        ],
+        "label": "fully hidden"
+      },
+      {
+        "region": [
+          644,
+          713,
+          581,
+          491
+        ],
+        "anchor": [
+          286,
+          490
+        ],
+        "label": "peek around"
+      }
+    ]
+  }
+}

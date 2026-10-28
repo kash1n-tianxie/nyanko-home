@@ -1,0 +1,18 @@
+{
+  "source": "Original 猫咪异常事务所 audio/v04, reused with user authorization. Original files remain unchanged; no game logic reused.",
+  "selection": "Soft title music and gentle UI/combat sounds.",
+  "files": [
+    "music/title.ogg",
+    "sfx/button_1.wav",
+    "sfx/coin_1.wav",
+    "sfx/upgrade_1.wav",
+    "sfx/buy_1.wav",
+    "sfx/cat_start.wav",
+    "sfx/cat_win.wav",
+    "sfx/victory.wav",
+    "sfx/failure.wav",
+    "sfx/weapon_cloud_bow_release_1.wav",
+    "sfx/hurt_1.wav",
+    "sfx/weapon_frost_knife_impact_1.wav"
+  ]
+}
